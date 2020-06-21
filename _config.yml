@@ -13,17 +13,17 @@ url:                 https://bestjourney.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             ""
+tagline:             "for intuition and insight"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+  The best journey for intuition and insight :)
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
-  email:             theorydb@gmail.com
+  name:              byungjun
+  email:             peterbj95@gmail.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg
